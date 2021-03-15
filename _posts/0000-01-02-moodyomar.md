@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Moody Omar slide!"
 ---
-This is Moody Omar's Slide
+This is my awsome slide
 Use the left arrow to go back!
